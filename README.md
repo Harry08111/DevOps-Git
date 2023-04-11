@@ -32,6 +32,6 @@ ___
 ```
 ## Images
 
-![Home Page](https://github.com/ankitpipalia/DevOps-Git/blob/master/images/homepage.png)
-![List Page](https://github.com/ankitpipalia/DevOps-Git/blob/master/images/listpage.png)
-![Update Page](https://github.com/ankitpipalia/DevOps-Git/blob/master/images/updatepage.png)
+![Home Page](https://github.com/Harry08111/DevOps-Git/blob/master/images/homepage.png)
+![List Page](https://github.com/Harry08111/DevOps-Git/blob/master/images/listpage.png)
+![Update Page](https://github.com/Harry08111/DevOps-Git/blob/master/images/updatepage.png)
